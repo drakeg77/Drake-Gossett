@@ -10,7 +10,9 @@ role: Mechanical Engineering Student
 
 # Status emoji
 status:
-  icon: ⚙
+  icon: cog
+  icon_pack: fas
+  icon_color: "#808080"  # Medium grey
 
 # Organizations/Affiliations
 organizations:
