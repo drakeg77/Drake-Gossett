@@ -1,30 +1,37 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
 widget: contact
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 50
 
 title: Get in touch
-subtitle:
+subtitle: Fill out the form below and I'll get back to you soon.
 
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      id: "https://formspree.io/f/xpwpwepk"
+
+    fields:
+      - name: "name"
+        label: "Your Name"
+        type: "text"
+        required: true
+
+      - name: "email"
+        label: "Your Email"
+        type: "email"
+        required: true
+
+      - name: "message"
+        label: "Your Message"
+        type: "textarea"
+        required: true
+
+    submit_label: "Send Message"
 
 design:
-  columns: '1'
+  columns: "1"
 ---

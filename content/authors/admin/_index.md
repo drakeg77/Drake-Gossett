@@ -10,9 +10,7 @@ role: Mechanical Engineering Student
 
 # Status emoji
 status:
-  icon: cog
-  icon_pack: fas
-  icon_color: "#808080"  # Medium grey
+  icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="#808080"><path d="M12 2a2 2 0 0 1 2 2v1.1c.7.2 1.3.5 1.9.8l.8-.8a2 2 0 0 1 2.8 0l1.4 1.4a2 2 0 0 1 0 2.8l-.8.8c.3.6.6 1.2.8 1.9H22a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-1.1c-.2.7-.5 1.3-.8 1.9l.8.8a2 2 0 0 1 0 2.8l-1.4 1.4a2 2 0 0 1-2.8 0l-.8-.8c-.6.3-1.2.6-1.9.8V22a2 2 0 0 1-2 2h-2a2 2 0 0 1-2-2v-1.1c-.7-.2-1.3-.5-1.9-.8l-.8.8a2 2 0 0 1-2.8 0L2.3 19.7a2 2 0 0 1 0-2.8l.8-.8a7.7 7.7 0 0 1-.8-1.9H2a2 2 0 0 1-2-2v-2a2 2 0 0 1 2-2h1.1c.2-.7.5-1.3.8-1.9l-.8-.8a2 2 0 0 1 0-2.8L4.3 3.3a2 2 0 0 1 2.8 0l.8.8c.6-.3 1.2-.6 1.9-.8V4a2 2 0 0 1 2-2h2zm-1 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"/></svg>'
 
 # Organizations/Affiliations
 organizations:
