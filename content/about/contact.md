@@ -12,14 +12,12 @@ content:
   form:
     provider: formspree
     formspree:
-      id: "xpwpwepk"  # Use only the Formspree form ID, not the full URL
+      id: "xpwpwepk"  # Keep only the ID
+
+    action: "https://formspree.io/f/xpwpwepk"  # Explicitly define action
+    method: "POST"  # Explicitly define method
 
     fields:
-      - name: "name"
-        label: "Your Name"
-        type: "text"
-        required: true
-
       - name: "email"
         label: "Your Email"
         type: "email"
@@ -30,7 +28,7 @@ content:
         type: "textarea"
         required: true
 
-    submit_label: "Send Message"
+    submit_label: "Send"
 
 design:
   columns: "1"
