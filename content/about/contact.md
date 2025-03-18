@@ -13,6 +13,7 @@ content:
     provider: formspree
     formspree:
       id: "https://formspree.io/f/xpwpwepk"
+      method: "POST"  # Ensure the form submits via POST
 
     fields:
       - name: "name"
