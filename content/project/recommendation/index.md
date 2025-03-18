@@ -1,6 +1,6 @@
 ---
 title: Whipper Trebuchet
-summary: summary: |
+summary: |
   Designed, built, and tested a “Whipper Trebuchet” for a high school physics project with the goal of launching a tennis ball as far as possible.
 
   Modeled the trebuchet by sketching on paper and moving to Fusion 360 to complete a 3D model to present in class.
