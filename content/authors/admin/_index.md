@@ -2,28 +2,25 @@
 # Display name
 title: Drake Gossett
 
-# Name pronunciation (optional)
-name_pronunciation: ''
+# Is this the primary user of the site?
+superuser: true
 
-# Full name (for SEO)
-first_name: Drake
-last_name: Gossett
+# Role/position
+role: Mechanical Engineering Student
 
 # Status emoji
 status:
   icon: ⚙
 
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Mechanical Engineering Student
-
-# Organizations/Affiliations\organizations:
+# Organizations/Affiliations
+organizations:
   - name: SEDS UCF
     url: https://linktr.ee/sedsucf
 
-# Social network links
+# Short bio (displayed in user profile at end of posts)
+bio: Ambitious Mechanical Engineering freshman at the Burnett Honors College at UCF with a passion for problem-solving and a keen interest in defense projects. Eager to secure an internship to gain practical experience beyond the classroom.
+
+# Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
@@ -98,9 +95,6 @@ skills:
         percent: 80
       - name: Team Leadership
         percent: 80
-
-# About Me
-bio: Ambitious Mechanical Engineering freshman at the Burnett Honors College at UCF with a passion for problem-solving and a keen interest in defense projects. Eager to secure an internship to gain practical experience beyond the classroom.
 
 ---
 
