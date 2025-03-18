@@ -1,8 +1,10 @@
 ---
 title: Cartoon Face Generator
-summary: Write about your project here...
+summary:  Designed, built, and launched an H-class high-powered rocket for NAR certification. 
+          Used OpenRocket and Ansys Fluent to simulate conditions before flight.
+          Conducted pre-flight safety checks and ensured successful recovery with black powder ejection and parachute deployment.
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+date: 2024-12-01
+external_link: https://www.nar.org/
 ---
