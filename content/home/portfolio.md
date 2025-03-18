@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Rocketry
+      tag: ROK
+    - name: Electronics
+      tag: EV
+    - name: Other
+      tag: OTR
 
 design:
   columns: '1'

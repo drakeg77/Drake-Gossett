@@ -8,7 +8,7 @@ summary: |
   Competed in a high school tournament and emerged victorious, beating the 6+ other teams.
 
 tags:
-  - NLP
+  - EV
 date: 2022-04-01
 external_link: https://seaperch.org/
 ---

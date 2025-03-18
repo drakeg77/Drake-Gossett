@@ -6,7 +6,7 @@ summary: |
   Used OpenRocket and Ansys Fluent to simulate conditions before flight.
 
 tags:
-  - CV
+  - ROK
 date: 2024-12-01
 external_link: https://www.nar.org/
 ---

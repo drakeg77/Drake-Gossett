@@ -10,7 +10,7 @@ summary: |
   Streamlined the project after initial testing by increasing structural strength and researching better projectiles to increase the throw distance by 70%.
 
 tags:
-  - ML
+  - OTR
 date: 2024-05-01
 external_link: https://www.youtube.com/watch?v=0HUPXhaK6mY
 ---
