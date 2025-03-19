@@ -22,28 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Thermal Analysis and Radio Communications Tech
+    company: SEDS Rocket Club @UCF
+    company_url: 'https://linktr.ee/sedsucf'
+    date_start: '2024-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Conducted failure assessment of rocket tip and body using RasAero, SolidWorks, and Ansys.
+        * Identified and addressed potential challenges in design and functionality through a FMEA chart.
+        * Enhanced data transmission reliability, allowing for real-time tracking during launches.
+        * Tested electronic components for resilience, incorporating redundancy measures to enhance system reliability.
+        * Streamlined rocket by cutting live telemetry from the second stage, saving weight and increasing altitude.
+        * Constructed critical infrastructure and tested electronics for the final design during build sessions.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Private Tutor
+    company: Self Employed
+    date_start: '2023-08-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Tutored students, boosting grades and building confidence.
+        * Instructed students in college-level concepts, including advanced Mathematics, Physics, and English Composition.
+
+  - title: Cart Barn Attendant
+    company: RedTail Golf Club
+    company_url: 'https://www.redtailgc.com/'
+    date_start: '2022-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Self-driven and consistently strive for excellence in serving 100+ members and guests.
+        * Train new employees on personable hospitality and the opening and closing procedures.
+        * Adapt to changing events and challenges that arise, assisting in tournaments to provide a seamless experience.
 
 design:
   columns: '1'
