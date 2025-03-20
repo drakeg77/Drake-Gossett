@@ -7,7 +7,7 @@ summary: |
   
   I performed a fiberglass layup for reinforcement and 3D-printed the nose cone, optimizing aerodynamics and durability.
 
-  Shout out to [**Luke Magill**](https://www.linkedin.com/in/luke-magill-8ab09032a/)
+  Shout out to [**Luke Magill**](https://www.linkedin.com/in/luke-magill-8ab09032a/) for the garage
 
 tags:
   - ROK
