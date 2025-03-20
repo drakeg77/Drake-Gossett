@@ -24,17 +24,15 @@ date_format: Jan 2006
 experience:
   - title: Mechanical Engineering
     company: UCF Burnett Honors College
-    company_url: 'https://honors.ucf.edu/'
+    company_url: 'honors.ucf.edu'
+    company_logo: org-x
     location: Florida
     date_start: '2024-08-01'
     date_end: ' '
     description: |2-
-      Classes Taken
+        * Classes Taken
         * Engineering Statics
-        * Calculus 1 2 3
-        * Physics Honors
-
-
+        * Calculus 1 2 3 
 design:
   columns: '1'
 ---
