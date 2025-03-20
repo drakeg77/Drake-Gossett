@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://certificates.simnetonline.com/67e6f76c-101c-4950-a8fd-7d80e45008c0#acc.Fml9dKrY
+  - certificate_url: 'https://certificates.simnetonline.com/67e6f76c-101c-4950-a8fd-7d80e45008c0#acc.Fml9dKrY'
     date_end: ''
     date_start: '2024-09-01'
     description: ''
     organization: McGraw Hill
-    organization_url: https://www.mheducation.com
+    organization_url: 'https://www.mheducation.com'
     title: Level 1: Excel White Belt
     url: ''
 
@@ -37,7 +37,7 @@ item:
     date_start: '2022-05-01'
     description: ''
     organization: PADI
-    organization_url: https://www.padi.com
+    organization_url: 'https://www.padi.com'
     title: Advanced Open Water Diver
     url: ''
 
@@ -46,7 +46,7 @@ item:
     date_start: '2024-05-01'
     description: 'I have received the Provost Scholarship offered by the University of Central Florida. This scholarship is awarded to recognize outstanding academic performance prior to entering college.'
     organization: University of Central Florida
-    organization_url: https://www.ucf.edu
+    organization_url: 'https://www.ucf.edu'
     title: Provost Academic Scholar
     url: ''
 
@@ -55,7 +55,7 @@ item:
     date_start: '2022-08-01'
     description: 'I set long term goals of personal growth and community involvement. I also completed an Expedition/Exploration to immerse myself and leave my daily routine and discover the unfamiliar.'
     organization: Congressional Award National Board of Directors
-    organization_url: https://www.congressionalaward.org
+    organization_url: 'https://www.congressionalaward.org'
     title: Congressional Award Gold Certificate and Bronze Medal
     url: ''
 
