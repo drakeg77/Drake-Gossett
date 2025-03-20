@@ -47,6 +47,22 @@ item:
     organization_url: https://www.ucf.edu
     title: Provost Academic Scholar
     url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-08-01'
+    description: 'I set long-term goals of personal growth and community involvement. I also completed an Expedition/Exploration to immerse myself and leave my daily routine and discover the unfamiliar.'
+    organization: Congressional Award National Board of Directors
+    organization_url: https://www.congressionalaward.org
+    title: Congressional Award Gold Certificate and Bronze Medal
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2022-04-01'
+    description: 'Recognized by AmeriCorps in recognition and appreciation for my commitment to strengthening communities through volunteer service.'
+    organization: AmeriCorps
+    organization_url: https://www.americorps.gov
+    title: Gold Presidential Service Award
+    url: ''
 
 
 design:
