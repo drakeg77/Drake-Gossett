@@ -25,7 +25,7 @@ experience:
   - title: Mechanical Engineering
     company: UCF Burnett Honors College
     company_url: 'https://honors.ucf.edu/'
-    company_logo: org-ucf
+    company_logo: org-ucf.png
     location: Florida
     date_start: '2024-08-01'
     date_end: ' '
