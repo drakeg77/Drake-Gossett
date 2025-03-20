@@ -47,54 +47,7 @@ item:
     organization_url: https://www.ucf.edu
     title: Provost Academic Scholar
     url: ''
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2022-08-01'
-    description: 'I set long-term goals of personal growth and community involvement. I also completed an Expedition/Exploration to immerse myself and leave my daily routine and discover the unfamiliar.'
-    organization: Congressional Award National Board of Directors
-    organization_url: https://www.congressionalaward.org
-    title: Congressional Award Gold Certificate and Bronze Medal
-    url: ''
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2022-04-01'
-    description: 'Recognized by AmeriCorps in recognition and appreciation for my commitment to strengthening communities through volunteer service.'
-    organization: AmeriCorps
-    organization_url: https://www.americorps.gov
-    title: Gold Presidential Service Award
-    url: ''
-  - certificate_url: ''
-    date_end: ''
-    date_start: ''
-    description: 'I completed a music theory section with a final exam, then practiced to complete a practical examination involving identifying intervals from sound, and a performance of 5 pieces.'
-    organization: The Royal Conservatory of Music
-    organization_url: https://www.rcmusic.com
-    title: Level 5 Piano Practical and Theory First Class Honors With Distinction
-    url: ''
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+
 
 design:
   columns: '1'
