@@ -30,9 +30,9 @@ experience:
     date_start: '2024-08-01'
     date_end: '2022-01-01'
     description: |2-
-          Classes Taken
-        * Engineering Statics
-        * Calculus 1 2 3
+      Classes Taken  
+      - Engineering Statics  
+      - Calculus 1 2 3
 
   - title: BEng Electronic Engineering
     company: University X
