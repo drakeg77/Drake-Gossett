@@ -34,14 +34,6 @@ experience:
       - Engineering Statics  
       - Calculus 1 2 3
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
 
 design:
   columns: '1'
