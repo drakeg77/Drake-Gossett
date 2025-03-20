@@ -29,7 +29,7 @@ item:
     description: ''
     organization: McGraw Hill
     organization_url: 'https://www.mheducation.com'
-    title: Level 1: Excel White Belt
+    title: Level 1 Excel White Belt
     url: ''
 
   - certificate_url: ''
