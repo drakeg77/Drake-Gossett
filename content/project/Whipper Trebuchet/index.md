@@ -12,5 +12,5 @@ summary: |
 tags:
   - OTR
 date: 2024-05-01
-external_link: https://www.youtube.com/watch?v=0HUPXhaK6mY
+external_link: https://www.youtube.com/watch?v=IHc9U-pKoAI
 ---

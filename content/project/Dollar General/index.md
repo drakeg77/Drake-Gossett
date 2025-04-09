@@ -12,5 +12,5 @@ summary: |
 tags:
   - ROK
 date: 2025-01-01
-external_link: https://www.nar.org/
+external_link: https://youtu.be/DrE4vm3xTzw
 ---
