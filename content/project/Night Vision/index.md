@@ -1,5 +1,5 @@
 ---
-title: SeaPerch Underwater Robot Competition
+title: Custom Monocular Digital Night Vision
 summary: |
   Built a modular digital night vision monocular as a solo project to gain experience with soldering and explore whether a professional PVS-14 would be worth the investment.
 
