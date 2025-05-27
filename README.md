@@ -4,3 +4,5 @@ Welcome to my personal website! I'm **Drake Gossett**, a **Mechanical Engineerin
 
 ## **Oops! You may be lost**  
 **Here is the link to my website:** [**Click here**](https://drakeg77.github.io/Drake-Gossett/)  
+
+![Image](https://github.com/user-attachments/assets/e2d7ab14-a819-4192-a909-bf9a61f2db16)
