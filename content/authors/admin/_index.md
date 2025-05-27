@@ -51,12 +51,10 @@ work:
     date_end: 'Present'
     summary: |
       Responsibilities include:
-      - Conducted failure assessment of rocket tip and body using RasAero, SolidWorks, and Ansys.
-      - Identified and addressed potential challenges in design and functionality through a FMEA chart.
-      - Enhanced data transmission reliability, allowing for real-time tracking during launches.
-      - Tested electronic components for resilience, incorporating redundancy measures to enhance system reliability.
-      - Streamlined rocket by cutting live telemetry from the second stage, saving weight and increasing altitude.
-      - Constructed critical infrastructure and tested electronics for the final design during build sessions.
+        * Conducted thermal analysis and failure assessments of rocket tip and body using Open Rocket, RasAero, SolidWorks, and Ansys, identifying and addressing potential challenges in design and functionality through an FMEA chart.
+        * Pioneered a new telemetry data transmission technique under tight restrictions, enhancing signal reliability and readability for accurate real-time tracking during launches.
+        * Tested electronic components for functionality and resilience, incorporating redundancy measures to enhance system reliability.
+        * Assisted in the construction and assembly of critical rocket infrastructure to support the team’s goal of surpassing the 22,000-foot launch height set by AIAA, with the ultimate goal of achieving a space shot.
 
   - position: Private Tutor
     company_name: Self Employed
