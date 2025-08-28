@@ -64,14 +64,6 @@ item:
     organization_url: https://www.congressionalaward.org
     title: Congressional Award Gold Certificate and Bronze Medal
     url: ''
-  - certificate_url: https://certificates.simnetonline.com/67e6f76c-101c-4950-a8fd-7d80e45008c0#acc.Fml9dKrY
-    date_end: ''
-    date_start: '2024-09-01'
-    description: 'Awarded for demonstrating foundational proficiency in Microsoft Excel, including data management, formulas, and chart creation.'
-    organization: McGraw Hill
-    organization_url: https://www.mheducation.com
-    title: Level 1 Excel White Belt
-    url: ''
 
   
 
