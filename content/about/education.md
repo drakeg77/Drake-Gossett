@@ -33,6 +33,7 @@ experience:
       Classes Taken  
       - Engineering Statics  
       - Calculus 1 2 3
+      - Thermodynamics
 
 
 design:
