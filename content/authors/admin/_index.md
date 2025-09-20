@@ -44,7 +44,7 @@ education:
 
 # Work Experience
 work:
-  - position: Thermal Analysis and Radio Communications Tech
+  - position: Thermal Analysis Team
     company_name: SEDS Rocket Club @UCF
     company_url: 'https://linktr.ee/sedsucf'
     date_start: 2024-09-01

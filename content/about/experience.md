@@ -35,7 +35,7 @@ experience:
       * Responsible for adhering to rigorous safety protocols and risk mitigation strategies for propellant handling to ensure team preparedness for all contingency operations.
       * Contributing to the characterization of solid propellant through the preparation of grains and instrumentation of a test motor for burn rate data acquisition. 
   
-  - title: Thermal Analysis and Radio Communications Tech
+  - title: Thermal Analysis Team
     company: SEDS Rocket Club @UCF
     company_url: 'https://linktr.ee/sedsucf'
     date_start: '2024-09-01'
