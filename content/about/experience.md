@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   
-- title: MXOD Structures Team Member
+  - title: MXOD Structures Team Member
     company: Propulsion and Energy Research Laboratory (PERL)
     company_url: ''
     date_start: '2025-08-01'
