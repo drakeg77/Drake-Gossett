@@ -28,12 +28,20 @@ experience:
     company_logo: org-ucf
     location: Florida
     date_start: '2024-08-01'
-    date_end: '2022-01-01'
+    date_end: '2028-01-01'
     description: |2-
       Classes Taken  
-      - Engineering Statics  
+      - Engineering Statics 
       - Calculus 1 2 3
+      - Differential Equations
       - Thermodynamics
+      - Engineering Analysis Dynamics
+      - Mechanics of Materials
+      - Solid Mechanics
+      - Modeling Methods
+      - Mechanical Engineering Measurements
+      - Principles of Electrical Engineering
+
 
 
 design:
