@@ -23,6 +23,28 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   
+- title: MXOD Structures Team Member
+    company: Propulsion and Energy Research Laboratory (PERL)
+    company_url: ''
+    date_start: '2025-08-01'
+    date_end: ''
+    description: |2-
+      Responsibilities include:
+
+      * Performed detailed inspections of machined parts to ensure dimensional accuracy and prevent tolerance stack ups.
+      * Optimized material selection for critical airframe structures subjected to extreme-heat and high-stress flight environments.
+
+  - title: CWEP Systems Engineer
+    company: Lockheed Martin Missiles & Fire Control
+    company_url: ''
+    date_start: '2025-08-01'
+    date_end: ''
+    description: |2-
+      Responsibilities include:
+
+      * Support engineering teams in the Innovation Center by troubleshooting hardware issues and providing technical assistance for rapid prototyping projects.
+      * Utilize Creo for CAD adjustments and manage the end-to-end 3D printing process using Prusa and Formlabs systems to produce high-fidelity engineering models.
+
   - title: Student Researched and Developed Solid Rocket Motors Project BEAM
     company: SEDS Rocket Club @UCF
     company_url: 'https://linktr.ee/sedsucf'

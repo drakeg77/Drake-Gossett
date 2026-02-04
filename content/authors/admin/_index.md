@@ -19,7 +19,7 @@ organizations:
     url: https://linktr.ee/sedsucf
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ambitious Mechanical Engineering freshman at the Burnett Honors College at UCF with a passion for problem-solving and a keen interest in defense projects. Eager to secure an internship to gain practical experience beyond the classroom.
+bio: Ambitious Mechanical Engineering freshman at the Burnett Honors College at UCF with a passion for problem-solving and a keen interest in defense projects. 
 
 # Social/Academic Networking
 social:
@@ -97,6 +97,6 @@ skills:
 
 ---
 
-I am Drake Gossett, an ambitious Mechanical Engineering freshman at UCF Burnett Honors College with a passion for high-powered rocketry, electronics, and mechanical design. I thrive on problem-solving and have a keen interest in defense projects. As an active member of the SEDS Rocket Club, I'm eager to apply my skills in a hands-on environment and secure an internship to gain practical experience beyond the classroom.
+I am Drake Gossett, an ambitious Mechanical Engineering sophomore at UCF Burnett Honors College with a passion for high-powered rocketry, electronics, and mechanical design. I thrive on problem-solving and have a keen interest in defense projects, currently applying my skills as a CWEP Systems Engineer at Lockheed Martin and a Structures Team Member at the Propulsion & Energy Research Lab.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
